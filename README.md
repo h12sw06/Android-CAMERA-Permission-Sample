@@ -6,6 +6,14 @@
 
 샘플로 카메라로 진행하였습니다.
 
+카메라 앱 출처 : https://sharp57dev.tistory.com/20
+
+제가 짠 코드는 무한 권한 쪽입니다.
+
+블로그도 많이 이용 부탁드립니다.
+
+https://all-share-source-code.tistory.com/13
+
 -----
 
 #사용법
